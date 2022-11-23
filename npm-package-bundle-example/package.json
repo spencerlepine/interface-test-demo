@@ -1,0 +1,23 @@
+{
+  "name": "interface-test-demo",
+  "version": "1.0.0",
+  "description": "https://github.com/amazon-connect/amazon-connect-chat-interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spencerlepine/interface-test-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spencerlepine/interface-test-demo/issues"
+  },
+  "homepage": "https://github.com/spencerlepine/interface-test-demo#readme",
+  "dependencies": {
+    "spencer-test-connect-chat-interface": "^1.0.2"
+  }
+}
